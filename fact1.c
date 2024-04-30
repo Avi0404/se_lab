@@ -2,7 +2,7 @@
 int main() {
     int n, j;
     unsigned long long fact = 1;
-    printf("Enter an integer: ");
+    printf("Enter an int: ");
     scanf("%d",&n);
 
     // shows error if the user enters a negative integer
